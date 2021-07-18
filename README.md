@@ -6,6 +6,3 @@ Given the lack of [interest](https://www.linkedin.com/posts/christophhein_tm1-pl
 
 Credits: [Christoph Hein](https://github.com/scrumthing)
 
-## Table of Contents
-1. TM1: An Introduction
-2. 
